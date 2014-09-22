@@ -353,6 +353,7 @@ section h3.section-subheading {
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
+    text-align: center;
 }
 
 #portfolio .portfolio-item .portfolio-link {
@@ -538,7 +539,7 @@ section h3.section-subheading {
 
 .timeline .timeline-body>p,
 .timeline .timeline-body>ul {
-    margin-bottom: 0;
+    margin-bottom: 10px;
 }
 
 @media(min-width:768px) {
@@ -654,7 +655,6 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url(../img/map-image.png);
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -870,3 +870,31 @@ body {
 #services li{
     text-align: left;
 }
+
+.service-image {
+    width: 100px;
+}
+
+.course-img{
+    width: 170px;
+    margin: 20px;
+    display: inline-block;
+}
+
+#address{
+    font-family: "Roboto Slab";
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgba(34,34,34,.8);
+}
+
+#address p{
+    margin-bottom: 0px;
+}
+
+ #map_canvas {
+    width: 100%;
+    height: 300px;
+    background-color: #CCC;
+  }
