@@ -341,7 +341,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 100px 0;
     }
 }
 
@@ -872,7 +872,7 @@ body {
 }
 
 .service-image {
-    width: 100px;
+    width: 128px;
 }
 
 .course-img{
@@ -906,4 +906,14 @@ body {
 
   .schedule-item ul{
    list-style: none;
+  }
+
+  .hover-img{
+    display: inline-block;
+    height:96px;
+    margin-top: -32px;
+  }
+
+  #about{
+    padding-top: 170px;
   }
