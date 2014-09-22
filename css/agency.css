@@ -386,6 +386,7 @@ section h3.section-subheading {
     text-align: center;
     font-size: 20px;
     color: #fff;
+    background: rgba(254,209,54,0.1);
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
@@ -863,7 +864,7 @@ body {
 
 /* Custom */
 #services ul{
-    list-style: none;
+   
 }
 
 #services li{
