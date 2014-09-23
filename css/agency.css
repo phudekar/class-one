@@ -914,6 +914,6 @@ body {
     margin-top: -32px;
   }
 
-  #about{
-    padding-top: 170px;
+  #references a{
+    color: #E0A10D;
   }

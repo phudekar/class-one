@@ -30,10 +30,10 @@ function initialize() {
                                 'Near Mac donalds, <br/>' +
                                 'Aundh Road, Dange Chowk, <br/>' +
                                 'Thergaon,' +
-                                'Pune-411014' +
+                                'Pune 411033' +
                                 '<br/>' +
                                 '<p><b>Contact number:</b>' +
-                                '+91 9881496590 / +91 8956547026</div>';
+                                '+91 8983106590 / +91 8956547026</div>';
 	var mapCanvas = document.getElementById('map_canvas');
 	var myLatlng = new google.maps.LatLng(18.609045, 73.770049);
 	var mapOptions = {
