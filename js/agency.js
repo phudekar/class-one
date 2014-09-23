@@ -27,7 +27,7 @@ $('.navbar-collapse ul li a').click(function() {
 
 function initialize() {
 	var contentString = '<div><h6>Class One Engineering Institute</h6><p>Akshay Centre, ' +
-                                'Near Mac donalds, <br/>' +
+                                'Near Mc donalds, <br/>' +
                                 'Aundh Road, Dange Chowk, <br/>' +
                                 'Thergaon,' +
                                 'Pune 411033' +
